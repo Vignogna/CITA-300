@@ -1,0 +1,2 @@
+firstname,middleinitial,lastname,username,email,streetaddress,city,postalcode,state,country,department,password,telephone,jobtitle,company,ou
+Joe,G,Mama,mama123,mama@vignogna.local,3767 Underwood Way,Syracuse,13215,NY,USA,Computers,P@assword123,555-555-5555,Executive Assistant,CNY Family Dentistry,"CN=Users,DC=vignogna,DC=local"
